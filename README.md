@@ -1,0 +1,2 @@
+Developed an E-commerce web application utilizing React.js, JavaScript, HTML, and CSS, focusing on delivering a seamless and enriched user experience.Utilized JavaScript for real-time updates to dynamically manage and improve user engagement, and implemented React
+Router for effective client-side routing in the e-commerce application.Employed state management with React hooks and Context API to maintain application state and efficiently handle user interactions.
